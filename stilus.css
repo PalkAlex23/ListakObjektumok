@@ -1,0 +1,12 @@
+#kartyakontener {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.kartya {
+    flex: 0 0 45%;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
